@@ -1,3 +1,4 @@
+//The Data Attribute Reader
 const swatches = document.querySelectorAll('.swatch');
 
 function applyDataColor() {
