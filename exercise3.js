@@ -1,4 +1,4 @@
-//The Odject Context Challenge
+//The Object Context Challenge
 const display = document.querySelector('#count-display');
 
 const CounterApp = {
